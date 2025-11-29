@@ -1,63 +1,107 @@
 <h1 align="center">Hi 👋, I'm MD Abdur Rahman Akash</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">Full Stack Software Engineer | Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahman-akash&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahman-akash" /> </p>
-
-<br clear="both">
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/115198779?s=400&u=576028bc0860cc3ec4cdb5f8662a4f5dfaaa4929&v=4"  />
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdur-rahman-akash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdur-rahman-akash/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ar.akash95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ar.akash95/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdurrahmanakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdurrahmanakash" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdurrahman-akash&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/115198779?v=4" />
+
+### 🧑‍💻 About Me  
+- Full-stack engineer building scalable SaaS & AI applications  
+- Experienced with **Next.js 15, React 19, Node.js, Express.js**  
+- Strong focus on **system architecture, secure auth, and clean code**  
+- Deploying production systems using **Vercel, Docker, Prisma, Neon**  
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+
+<a href="https://www.linkedin.com/in/abdur-rahman-akash/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" />
+</a>
+<img width="10"/>
+<a href="https://www.facebook.com/ar.akash95/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="30" width="40" />
+</a>
+<img width="10"/>
+<a href="https://leetcode.com/abdurrahmanakash/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30" width="40" />
+</a>
+<img width="10"/>
+<a href="https://abdurrahmanakash.vercel.app/hire-me" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" height="40"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ Languages & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="30" alt="perl logo"  />
+
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
+  <img width="10"/>
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" height="30"/>
+  <img width="10"/>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="30" alt="ShadCN"/>
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/>
+  <img width="10"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prisma.svg" height="30" alt="Prisma"/>
+  <img width="10"/>
+
+  <!-- Tools & Cloud -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/supabase.svg" height="30" alt="Supabase"/>
+  <img width="10"/>
+  <!--
+  <img src="https://cdn.jsdelivr.net/gh/neondatabase/neon@main/docs/assets/neon-logo.png" height="30" alt="NeonDB (jsdelivr)"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/imagekit-developer/imagekit-react@master/assets/imagekit-logo.png" height="30" alt="ImageKit (jsdelivr)"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/langchain-ai/langchain@master/docs/static/img/langchain.png" height="30" alt="LangChain (jsdelivr)"/>
+  <img width="10"/>
+  -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+  <img width="10"/>
+  <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" height="30" alt="Vercel"/>
+
 </div>
 
-###
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrahman-akash&show_icons=true&locale=en&layout=compact" alt="abdurrahman-akash" /></p>
+# 📊 GitHub Stats (Stable Version)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrahman-akash&show_icons=true&locale=en" alt="abdurrahman-akash" /></p>
+<p>
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=abdurrahman-akash&theme=default&show_icons=true" />
 
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=abdurrahman-akash&layout=compact" />
+</p>
